@@ -43,3 +43,5 @@ release/
 backend-assets/
 prepare
 /ggml-metal.metal
+.env
+docker-compose.yaml
